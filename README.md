@@ -45,22 +45,21 @@ Precision/recall/F1-score tables
 Optional model comparison plots
 
 🚀 Getting Started
+
 🔧 Installation & Setup
+
 Clone this repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/enzoweiss21/Book-Review-ML-Project.git
 cd Book-Review-ML-Project
+
 Create a virtual environment and install dependencies:
 
-bash
-Copy
-Edit
+
 python3 -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
+
 📁 Files Included
 DefineAndSolveMLProblem.ipynb – Jupyter notebook with complete workflow
 
